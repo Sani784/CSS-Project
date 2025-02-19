@@ -1,0 +1,46 @@
+body{
+    text-align: center;
+}
+
+div{
+    height: 100px;
+    width: 50px;
+    border: 2px solid black;
+    display: inline-block;
+}
+
+#Container{
+    width: 700px;
+    height: 300px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    /*flex-wrap: wrap;*/
+    align-items: flex-start;
+   /* align-content: center;*/
+}
+
+#box1{
+    background-color: aqua;
+    flex-grow: 1;
+}
+
+#box2{
+    background-color: aquamarine;
+    height: 200px;
+    /*align-self: flex-end;*/
+    flex-grow: 1;
+}
+
+#box3{
+    background-color: antiquewhite;
+    height: 75px;
+}
+
+#box4{
+    background-color: bisque;
+}
+
+#box5{
+    background-color: rgb(173, 151, 60);
+}

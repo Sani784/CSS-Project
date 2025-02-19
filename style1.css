@@ -1,0 +1,81 @@
+#box {
+   background-color: blue;
+   color:white;
+}
+
+
+.heading{
+   color:rgb(112, 59, 59);
+}
+
+h1,h2,h3,h4{
+   color:red;
+}
+
+button{
+   background-color:green;
+}
+
+
+p{
+   text-align:start;
+}
+
+h1{
+   color:black;
+}
+
+h1{
+   text-align:center;
+   text-decoration:red underline;
+}
+
+body{
+   background-color: blanchedalmond;
+}
+
+#Heding1{
+   font-weight:normal;
+}
+
+#Heding2{
+   font-weight: bold;
+}
+
+#Heding3{
+   font-weight:bolder;
+}
+
+#Heding4{
+   font-weight: lighter;
+}
+
+h2{
+   text-align: center;
+}
+
+#one{
+   font-family: 'cursive';
+}
+
+#two{
+   font-family: 'segoe UI';
+}
+
+#one{
+   font-size: 20px;
+   line-height: 2;
+   text-transform: uppercase;
+}
+
+#two{
+   font-size: 18px;
+   line-height: 2;
+   text-transform: lowercase;
+}
+
+#three{
+   font-size: 16px;
+   line-height: 2;
+   text-transform: capitalize;
+}

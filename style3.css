@@ -1,0 +1,32 @@
+div{
+    height: 60px;
+    width: 100px;
+    background-color: bisque;
+    border-style: solid;
+    border-color: crimson;
+    border-width: 2px;
+    text-align: center;
+    border-radius: 25px;
+    padding:10px;
+    margin:1px 2px 3px 4px;
+}
+
+p{
+    height: 80px;
+    width: 750px;
+    background-color: red;
+    border-style: solid;
+    border-color: gold;
+    border-width: 4px;
+    text-align: center;
+}
+
+h1{
+    height: 50px;
+    width: 250px;
+    background-color: darkcyan;
+    border-style: dashed;
+    border-color: black;
+    border-width: 4px;
+    text-align: center;
+}

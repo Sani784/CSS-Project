@@ -1,0 +1,97 @@
+#navbar{
+    height: 60px;
+    background-color: black;
+    color: white;
+}
+
+button{
+    background-color: #f08804;
+}
+
+#logo{
+    color: #f08804;
+}
+
+a{
+    margin-right: 200px;
+    text-decoration: none;
+}
+
+#one{
+    background-color: pink;
+    display: block;
+}
+
+#two{
+    background-color: red;
+    width: 100px;
+    height: 100px;
+    text-align: center;
+    margin: 2%;
+    padding: 2%;
+    display:inline;
+}
+
+#three{
+    background-color:yellow;
+    width: 100px;
+    height: 100px;
+    text-align: center;
+    margin: 2%;
+    padding: 2%;
+    display: inline;
+}
+
+#four{
+    background-color:green;
+    width: 100px;
+    height: 100px;
+    text-align: center;
+    margin: 2%;
+    padding: 2%;
+    display: inline;
+}
+
+#five{
+    background-color: rgba(255, 0, 0, 0.5);
+    width: 100px;
+    height: 100px;
+    text-align: center;
+    margin: 2%;
+    padding: 2%;
+    display: inline;
+
+}
+
+#box1{
+    background-color:rgba(0, 255, 0, 1);
+    width: 100px;
+    height: 100px;
+    text-align: center;
+    margin: 2%;
+    padding: 2%;
+    display: inline;
+
+}
+
+#box2{
+    background-color: rgba(0, 255, 0, 0.7);
+    width: 100px;
+    height: 100px;
+    text-align: center;
+    margin: 2%;
+    padding: 2%;
+    display: inline;
+}
+
+#box3{
+    background-color: rgba(0,255, 0, 0.5);
+    width: 100px;
+    height: 100px;
+    text-align: center;
+    margin: 2%;
+    padding: 2%;
+    display: inline;
+}
+
+
