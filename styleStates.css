@@ -1,0 +1,13 @@
+div{
+    height: 250px;
+    width: 250px;
+    background-color: yellow;
+}
+
+div:hover{
+    background-color: aqua;
+}
+
+div:active{
+    background-color: rgb(186, 57, 78);
+}
